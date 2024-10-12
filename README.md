@@ -32,6 +32,6 @@ Sounds a buzzer and shows "Critical Alert!" on the LCD when flames are detected.
 ## System Overview:
 - Lighting Control: The LDR sensor measures light and adjusts the LEDs.
 - Temperature Control: The LM35 sensor changes the fan speed for comfort.
--Fire Detection: The flame sensor keeps us safe by triggering alarms.
+- Fire Detection: The flame sensor keeps us safe by triggering alarms.
 - Real-Time Feedback: The LCD shows ongoing updates about temperature and light levels.
 
