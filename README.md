@@ -35,3 +35,4 @@ Sounds a buzzer and shows "Critical Alert!" on the LCD when flames are detected.
 - Fire Detection: The flame sensor keeps us safe by triggering alarms.
 - Real-Time Feedback: The LCD shows ongoing updates about temperature and light levels.
 
+https://github.com/user-attachments/assets/2bae634e-0775-4a1e-ae24-90d38f8bdabc
