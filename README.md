@@ -17,8 +17,8 @@ Additionally, LEDs indicate varying light intensity levels.
   ##  Key Features:
 - Lighting:
   - 0 - 15% light: All LEDs ON (Red, Green, Blue).
-  - 16–50% light: Red and Green LEDs ON.
-  - 51–69% light: Red LED ON.
+  - 16 – 50% light: Red and Green LEDs ON.
+  - 51 – 69% light: Red LED ON.
   - 70 - 100% light: All LEDs OFF.
 - Fan Speed:
   - ≥ 40°C: Fan at 100%.
