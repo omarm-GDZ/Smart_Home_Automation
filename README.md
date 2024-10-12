@@ -16,19 +16,20 @@ Additionally, LEDs indicate varying light intensity levels.
 
   ##  Key Features:
 - Lighting:
-0 - 15% light: All LEDs ON (Red, Green, Blue).
-16–50% light: Red and Green LEDs ON.
-51–69% light: Red LED ON.
-70 - 100% light: All LEDs OFF.
+-- 0 - 15% light: All LEDs ON (Red, Green, Blue).
+-- 16–50% light: Red and Green LEDs ON.
+-- 51–69% light: Red LED ON.
+-- 70 - 100% light: All LEDs OFF.
 - Fan Speed:
-≥ 40°C: Fan at 100%.
-35–39°C: Fan at 75%.
-30–34°C: Fan at 50%.
-25–29°C: Fan at 25%.
-< 25°C: Fan OFF.
+-- ≥ 40°C: Fan at 100%.
+-- 35–39°C: Fan at 75%.
+-- 30–34°C: Fan at 50%.
+-- 25–29°C: Fan at 25%.
+-- < 25°C: Fan OFF.
 - Fire Alerts:
 Sounds a buzzer and shows "Critical Alert!" on the LCD when flames are detected.
-🛠️ System Overview:
+
+## System Overview:
 - Lighting Control: The LDR sensor measures light and adjusts the LEDs.
 - Temperature Control: The LM35 sensor changes the fan speed for comfort.
 Fire Detection: The flame sensor keeps us safe by triggering alarms.
